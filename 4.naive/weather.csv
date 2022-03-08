@@ -1,0 +1,5 @@
+Sky,Air temp,Humidity,Wind,water,Forecast,target
+Sunny,warm,normal,strong,warm,same,yes
+Sunny,warm,high,strong,warm,same,yes
+Rainy,cold,high,strong,warm,change,no
+Sunny,warm,high,strong,cold,change,yes
